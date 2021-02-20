@@ -1,11 +1,7 @@
-### This is the official repository for python extensions.
-
-This repository is shipped with albert. If you want to have bleeding edge extensions or share your extension clone the repository. Check the docs on Python extensions.
+### This is my private repository for albert python extensions.
 
 To install the extensions in user space type the following in your terminal:
 
 ```
-git clone https://github.com/albertlauncher/python.git ~/.local/share/albert/org.albert.extension.python/modules
+git clone https://github.com/ttys3/org.albert.extension.python-modules.git ~/.local/share/albert/org.albert.extension.python/modules
 ```
-
-If you send a PR I'll invite you to the reviewers team (if I don't forget it), I'd appreciate if you could review others contributions.
