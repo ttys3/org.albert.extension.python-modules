@@ -89,6 +89,6 @@ def handleQuery(query):
             item = Item(id=__title__, icon=iconPath)
             item.text = __title__
             item.subtext = (
-                'Enter a query in the form of "&lt;number&gt;&nbsp;&lt;USD|HKD|JPY&gt;"'
+                'Enter a query in the form of "&lt;number&gt;&nbsp;&lt;usd|hkd|jpy&gt;"'
             )
             return item
